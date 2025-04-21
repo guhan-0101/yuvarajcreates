@@ -1,0 +1,1 @@
+import{S as o,Za as n}from"./chunk-6SWHU64T.js";var a=class e{static \u0275fac=function(t){return new(t||e)};static \u0275cmp=o({type:e,selectors:[["app-about"]],standalone:!0,features:[n],decls:0,vars:0,template:function(t,p){}})};export{a as AboutComponent};
